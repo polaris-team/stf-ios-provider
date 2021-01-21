@@ -76,7 +76,7 @@
     "serve-static": "^1.9.2",
     "sharp": "^0.22.0",
     "sleep": "^6.0.0",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.4.0",
     "split": "^1.0.0",
     "stf-appstore-db": "^1.0.0",
     "stf-browser-db": "^1.0.2",
