@@ -29,7 +29,7 @@
     "duplicate-arguments-array": false
   },
   "dependencies": {
-    "aws-sdk": "^2.4.13",
+    "aws-sdk": "^2.814.0",
     "basic-auth": "^1.0.3",
     "bluebird": "^2.10.1",
     "body-parser": "^1.13.3",
